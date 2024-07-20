@@ -16,4 +16,6 @@ UI框架主要实现UILayer作为基类，分别实现Panel（面板）和Window
 
 详细文档：https://gongqihua.github.io/
 
-演示Demo在Demo文件夹下：传送门
+![UI界面](DEMO/screenshot.png)
+
+演示Demo在Demo文件夹下：[传送门](DEMO/UIFramework.mp4)
